@@ -1,5 +1,5 @@
-import {NativeModules} from 'react-native';
+import { NativeModules } from "react-native";
 
-const {RNTestFlight} = NativeModules;
+const { RNTestFlight } = NativeModules;
 
 export default RNTestFlight;

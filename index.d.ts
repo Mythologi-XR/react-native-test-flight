@@ -1,3 +1,3 @@
-declare module "react-native-test-flight" {
+declare module "@mythologi/react-native-testflight" {
   export const isTestFlight: boolean
 }
